@@ -11,4 +11,4 @@ readme = "README.md"
 
 [dependencies]
 r2d2 = "0.8"
-redis_cluster_rs = { git = "https://github.com/stew/redis-cluster-rs" branch = "support-password" }
+redis_cluster_rs = { git = "https://github.com/stew/redis-cluster-rs", branch = "support-password" }
